@@ -3,4 +3,4 @@
 This couldn't be anymore boring
 This is an update
 
-write to webhook stream
+this should work because i changed the name of the table
